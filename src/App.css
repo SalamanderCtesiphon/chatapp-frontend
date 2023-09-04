@@ -88,3 +88,11 @@ body {
   color: white; 
   background: rgb(43, 47, 60);
 }
+
+.header-text { 
+  color: #afafaf;
+  width: 50%;
+  position: absolute;
+  top: 0;
+  font-size: 25px;
+}

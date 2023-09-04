@@ -12,6 +12,7 @@ const AuthPage = (props) => {
 
   return (
     <div className="background">
+      <h1 className="header-text">If you are viewing this app as a demo, open two browser windows and create two seperate users. Then start a new chat and add the two newly created users to it to test the app out.</h1>
       <form onSubmit={onSubmit} className="form-card">
         <div className="form-title">Welcome 👋</div>
 
